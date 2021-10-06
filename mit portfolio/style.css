@@ -1,0 +1,225 @@
+*{
+    font-family: 'Raleway', sans-serif;
+}
+
+.headline{
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    
+    
+}
+
+.tags a{
+    text-decoration: none;
+    color: black;
+    
+}
+
+
+
+.tags{
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+    word-spacing: 100px; 
+}
+
+.menu{
+  background-color: rgba(245, 245, 245, 0.856);
+  padding: 20px;
+  
+}
+
+.footer{
+    text-align: center;
+}
+
+.head{
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.om{
+    text-align: center;
+    padding: 20px;
+}
+
+.round{
+  margin: 20px;
+  padding: 20px;
+}
+
+.mig{
+  text-align: center;
+  font-size: 15px;
+}
+
+.hi{
+    margin: 20px;
+    padding: 20px;
+}
+
+.introduktion{
+    margin: 20px;
+    padding: 20px;
+    padding-top: 20px;
+}
+
+.skriv{
+    text-align: center;
+    margin-top: 50px;
+    padding: 50px;
+    margin-bottom: 10px;
+    font-family: 'Raleway', sans-serif; 
+    font-size: 30px;
+
+}
+
+.p{
+    text-align: right;
+    margin: 20px;
+    padding: 20px;
+}
+
+.name{
+    position: absolute;
+}
+
+.forside{
+    font-size: 30px;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+
+.forsidebillede{
+    padding: 20px;
+    margin: 20px;
+    
+    
+}
+
+
+
+
+/* Style inputs, select elements and textareas */
+input[type=text], select, textarea{
+    width: 50%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: vertical;
+  }
+  
+  
+  
+  /* Style the submit button */
+  input[type=submit] {
+    
+    background-color: rgba(226, 218, 218, 0.664);
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: center;
+  }
+  
+  /* Style the container */
+.container {
+  border-radius: 5px;
+  
+  padding: 20px;
+}
+  
+  
+  /* Floating column for inputs: 75% width */
+  .col-75 {
+    float: center;
+    width: 75%;
+    margin-top: 6px;
+  }
+  
+  /* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 200px) {
+    .col-25, .col-75, input[type=submit] {
+      width: 50%;
+      margin-top: 0;
+    }
+  }
+  
+  .contact{
+    float: center;
+    margin: 20px;
+    
+  }
+
+  .container{
+    background-color: rgba(245, 245, 245, 0.856);
+  }
+
+  .fnav{
+    text-align: center;
+  }
+  
+
+  .portfolio{
+    margin: 100px;
+    padding: 50px;
+    
+  }
+
+  .billeder{
+    display: flex;
+  }
+
+  .photoshop{
+    padding: 50px;
+    margin: 50px;
+    width: 40%;
+  }
+
+  .billedebehandling{
+    padding: 50px;
+    margin: 50px;
+    float: right;
+  }
+
+  .adobe{
+    padding: 50px;
+    margin: 50px;
+    width: 30%;
+  }
+
+  .adobexd{
+    padding: 50px;
+    margin: 50px;
+    float: right;
+  }
+
+  .adobelink{
+  text-align: left;
+  
+  }
+
+  .instagram{
+    padding: 20px;
+    margin: 20px;
+  }
+
+  
+
+  
+  
+  
+
